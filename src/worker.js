@@ -7,7 +7,7 @@ const API_CONFIGS = {
     },
     gemini: {
       host: 'generativelanguage.googleapis.com',
-      paths: ['/v1beta/models/'],
+      paths: ['/v1beta/'],
       description: "Google Gemini API 代理服务",
       logo: "🌟"
     },
