@@ -17,11 +17,11 @@ const API_CONFIGS = {
       description: "Claude API 代理服务",
       logo: "🧠"
     },
-    claudeweb: {
+    claudeai: {
       host: 'claude.ai',
-      paths: ['/v1/'],
-      description: "Claude web API 代理服务",
-      logo: "🧠🧠"
+      paths: ['/api/'],
+      description: "Claude Web 代理服务",
+      logo: "🎯"
     },
     grok: {
       host: 'api.x.ai',
