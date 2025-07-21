@@ -17,9 +17,9 @@ const API_CONFIGS = {
       description: "Claude API 代理服务",
       logo: "🧠"
     },
-    claudeai: {
+    claude2api: {
       host: 'claude.ai',
-      paths: ['/'],
+      paths: ['/api/'],
       description: "Claude Web 代理服务",
       logo: "🎯"
     },
